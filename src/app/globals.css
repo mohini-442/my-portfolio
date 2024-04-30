@@ -7,3 +7,7 @@
 .ff-sora{
   font-family: 'Sora', sans-serif !important;
 }
+
+.text-stroke-3 {
+  -webkit-text-stroke: 3px black;
+}
